@@ -1,0 +1,8 @@
+1.国产8211压缩包,对应国产phy9322板卡
+2.TRL8211FSI_5396_config_0609压缩包,对应进口phy板卡
+3.TRL8211FSI_5396_config_0808压缩包,对应板卡DSP0连接国产PHY8211，DSP123连接进口PHY
+4.imageFile1000M_0722.ldr文件是DSP网络passive镜像二进制文件
+
+5.TRL8211FSI_5396_config_1026压缩包,对应板卡连接国产PHY8211
+
+6.passive3.1  是解决ping 中断问题最终版
